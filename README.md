@@ -3,7 +3,7 @@
 ## 🖥️ Project Overview
 This project demonstrates the setup and administration of a Windows Server network environment, including Active Directory, DNS, DHCP, WDS, WSUS, RODC, GPO management, child domains, and web servers.
 
-[Project](MCSA.PNG)
+![Project](MCSA.PNG)
 ---
 
 ## 🧱 Topology Summary
