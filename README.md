@@ -88,3 +88,13 @@ A fully functional multi-domain Windows Server network with user restrictions, G
 
 ---
 
+## 👩‍💻 Author
+**Elham**  
+🔧 DevOps Enthusiast | System Admin | Automation Engineer | Web Designer  
+🚀 Built locally on CentOS and Docker  
+📬 GitHub: https://github.com/elhamhassan90  
+🔗 LinkedIn: www.linkedin.com/in/elham-hasan-6b029433a  
+---
+
+⭐ *If you found this useful or inspiring, star the repo and con
+
