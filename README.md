@@ -90,7 +90,7 @@ A fully functional multi-domain Windows Server network with user restrictions, G
 
 ## 👩‍💻 Author
 **Elham**  
-🔧 DevOps Enthusiast | System Admin | Automation Engineer | Web Designer  
+🔧 DevOps Enthusiast | System Admin | Automation Engineer | IT Support Network Egineer   
 🚀 Built locally on CentOS and Docker  
 📬 GitHub: https://github.com/elhamhassan90  
 🔗 LinkedIn: www.linkedin.com/in/elham-hasan-6b029433a  
